@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/google-charts-mintbean-hack/precache-manifest.4deef2fe02b26e01b346fb93d5c47874.js"
+  "/google-charts-mintbean-hack/precache-manifest.c550b8dbe013fb4af92211cf1bfe27c6.js"
 );
 
 self.addEventListener('message', (event) => {

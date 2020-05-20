@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/google-charts-mintbean-hack/static/css/main.5f361e03.chunk.css",
-    "main.js": "/google-charts-mintbean-hack/static/js/main.38a6dfa2.chunk.js",
-    "main.js.map": "/google-charts-mintbean-hack/static/js/main.38a6dfa2.chunk.js.map",
+    "main.css": "/google-charts-mintbean-hack/static/css/main.44cfa76f.chunk.css",
+    "main.js": "/google-charts-mintbean-hack/static/js/main.77bbba06.chunk.js",
+    "main.js.map": "/google-charts-mintbean-hack/static/js/main.77bbba06.chunk.js.map",
     "runtime-main.js": "/google-charts-mintbean-hack/static/js/runtime-main.5dd4f875.js",
     "runtime-main.js.map": "/google-charts-mintbean-hack/static/js/runtime-main.5dd4f875.js.map",
-    "static/js/2.a13f7e7c.chunk.js": "/google-charts-mintbean-hack/static/js/2.a13f7e7c.chunk.js",
-    "static/js/2.a13f7e7c.chunk.js.map": "/google-charts-mintbean-hack/static/js/2.a13f7e7c.chunk.js.map",
+    "static/js/2.5dceac6c.chunk.js": "/google-charts-mintbean-hack/static/js/2.5dceac6c.chunk.js",
+    "static/js/2.5dceac6c.chunk.js.map": "/google-charts-mintbean-hack/static/js/2.5dceac6c.chunk.js.map",
     "index.html": "/google-charts-mintbean-hack/index.html",
-    "precache-manifest.4deef2fe02b26e01b346fb93d5c47874.js": "/google-charts-mintbean-hack/precache-manifest.4deef2fe02b26e01b346fb93d5c47874.js",
+    "precache-manifest.c550b8dbe013fb4af92211cf1bfe27c6.js": "/google-charts-mintbean-hack/precache-manifest.c550b8dbe013fb4af92211cf1bfe27c6.js",
     "service-worker.js": "/google-charts-mintbean-hack/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/google-charts-mintbean-hack/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.a13f7e7c.chunk.js.LICENSE.txt": "/google-charts-mintbean-hack/static/js/2.a13f7e7c.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/google-charts-mintbean-hack/static/media/logo.5d5d9eef.svg"
+    "static/css/main.44cfa76f.chunk.css.map": "/google-charts-mintbean-hack/static/css/main.44cfa76f.chunk.css.map",
+    "static/js/2.5dceac6c.chunk.js.LICENSE.txt": "/google-charts-mintbean-hack/static/js/2.5dceac6c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5dd4f875.js",
-    "static/js/2.a13f7e7c.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.38a6dfa2.chunk.js"
+    "static/js/2.5dceac6c.chunk.js",
+    "static/css/main.44cfa76f.chunk.css",
+    "static/js/main.77bbba06.chunk.js"
   ]
 }
